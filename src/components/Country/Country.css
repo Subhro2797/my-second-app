@@ -1,0 +1,17 @@
+.country {
+    margin: 20px;
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    border: 5px chartreuse solid;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.country img {
+    width: 200px;
+}
+
+.country h5 small:hover {
+    font-weight: 900;
+    font-size: larger;
+}
